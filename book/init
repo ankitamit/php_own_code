@@ -1,0 +1,10 @@
+is_bool() Boolean One of the two special values, true or false
+is_integer() Integer A whole number. Alias of is_int() and is_long()
+is_double() Double A floating point number (a number with a decimal point). Alias
+of is_float()
+is_string() String Character data
+is_object() Object An object
+is_array() Array An array
+is_resource() Resource A handle for identifying and working with external resources
+such as databases or files
+is_null() Null An unassigned value

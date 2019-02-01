@@ -1,0 +1,32 @@
+<?php
+
+class BookSingleton {
+
+
+   private $author = 'ankit bhatia';
+   private $title = ' BOOK 1';
+
+   private static $book = NULL;
+
+   private static $isloadnedOut = FALSE;
+
+
+
+   public static getInstance() {
+
+
+     if(FALSE == self::$isloadnedOut
+
+
+
+}
+
+
+
+
+
+
+
+
+
+}
